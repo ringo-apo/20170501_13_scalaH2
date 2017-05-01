@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mRunning example.H2 [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	D:\data\programing\20170501_13_scalaH2\target\scala-2.12\classes[0m
+[0m[[0mdebug[0m] [0m	C:\Users\ataira\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\ataira\.ivy2\cache\com.h2database\h2\jars\h2-1.4.195.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-9[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-9[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-8[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-8[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
